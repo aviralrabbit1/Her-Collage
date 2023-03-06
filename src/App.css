@@ -40,8 +40,8 @@ body {
 
 .tile:nth-child(1) {
   background-color: rgb(255, 238, 88);
-  height: 14%;
-  width: 20%;
+  height: 24%;
+  width: 25%;
   left: 5%;
   top: 5%;
 }
@@ -104,8 +104,8 @@ body {
 
 .tile:nth-child(9) {
   background-color: rgb(250, 250, 250);
-  height: 10%;
-  width: 8%;
+  height: 20%;
+  width: 16%;
   left: 84%;
   top: 84%;
 }

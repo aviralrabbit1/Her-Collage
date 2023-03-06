@@ -26,7 +26,7 @@ window.onmousemove = e => {
   gallery.animate({
     transform: `translate(${panX}px, ${panY}px)`
   }, {
-    duration: 4000,
+    duration: 5000,
     fill: "forwards",
     easing: "ease",
   })
@@ -38,31 +38,31 @@ function App() {
           <div id="gallery">
             {/* Putting n number of images on the board */}
         <div className="tile">
-          <img alt='' src="https://images.unsplash.com/photo-1481349518771-20055b2a7b24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fHJhbmRvbSUyMG9iamVjdHN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=70" />
+          <img alt='' src="https://i.postimg.cc/HxB214GC/me-shubhangi-tent.jpg" />
         </div>
         <div className="tile">
-          <img alt='' src="https://images.unsplash.com/photo-1515266591878-f93e32bc5937?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGJsdWV8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=70" />
+          <img alt='' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzIyYmZkMjRjYzk0ZDJjN2E4MDZiMzI5MTE1MTVlMzM1NDE3MTYzYiZjdD1n/4FjjPxM5kAruCjz9Lr/giphy.gif" />
         </div>
         <div className="tile">
-          <img alt='' src="https://images.unsplash.com/photo-1587590227264-0ac64ce63ce8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cmFuZG9tJTIwb2JqZWN0c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=70" />
+          <img alt='' src="https://i.postimg.cc/TY8PKf7q/baby-whitecap.jpg" />
         </div>
         <div className="tile">
-          <img alt='' src="https://images.unsplash.com/photo-1520121401995-928cd50d4e27?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Z3JlZW58ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=70" />
+          <img alt='' src="https://i.postimg.cc/SRGZhZ2X/specstop-affrontfield1.jpg&auto=format&fit=crop&w=800&q=70" />
         </div>
         <div className="tile">
-          <img alt='' src="https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cHVycGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=70" />
+          <img alt='' src="https://i.postimg.cc/D0HY5xNR/smilecreative1.jpg" />
         </div>
         <div className="tile">
-          <img alt='' src="https://images.unsplash.com/photo-1557800636-894a64c1696f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8b3JhbmdlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=70" />
+          <img alt='' src="https://i.postimg.cc/pLXPgTcC/child-with-family.jpg" />
         </div>
         <div className="tile">
-          <img alt='' src="https://images.unsplash.com/photo-1520338258525-606b90f95b04?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGRhcmslMjBibHVlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=70" />
+          <img alt='' src="https://i.postimg.cc/W4Dfk6KK/pinkfrilledneckdress2.jpg&auto=format&fit=crop&w=800&q=70" />
         </div>
         <div className="tile">
-          <img alt='' src="https://images.unsplash.com/photo-1521127474489-d524412fd439?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTh8fHJhbmRvbSUyMG9iamVjdHN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=70" />
+          <img alt='' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQ2Yzg4OWY4Mzg4ZGQ2YzY5ZGU1MDQxMWJlM2U3NzZiYTA0MjU0ZiZjdD1n/xbrqrnKzqCbJv3eI7H/giphy.gif" />
         </div>
         <div className="tile">
-          <img alt='' src="https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8cmFuZG9tJTIwb2JqZWN0c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=70" />
+          <img alt='' src="https://i.postimg.cc/d3cXvk5f/black-striped2.jpg&auto=format&fit=crop&w=800&q=70" />
         </div>
       </div>
       
