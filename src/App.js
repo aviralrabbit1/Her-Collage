@@ -35,33 +35,32 @@ window.onmousemove = e => {
 function App() {
   return (
     <div className="App">
-          <div id="gallery">
-            {/* Putting n number of images on the board */}
-        <div className="tile">
+      <div id="gallery">
+        <div class="tile">
           <img alt='' src="https://i.postimg.cc/HxB214GC/me-shubhangi-tent.jpg&auto=format&fit=crop&w=800&q=70" />
         </div>
-        <div className="tile">
-          <img alt='' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzIyYmZkMjRjYzk0ZDJjN2E4MDZiMzI5MTE1MTVlMzM1NDE3MTYzYiZjdD1n/4FjjPxM5kAruCjz9Lr/giphy.gif" />
+        <div class="tile">
+          <img alt='' src="  https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQ2Yzg4OWY4Mzg4ZGQ2YzY5ZGU1MDQxMWJlM2U3NzZiYTA0MjU0ZiZjdD1n/xbrqrnKzqCbJv3eI7H/giphy.gif" />
         </div>
-        <div className="tile">
+        <div class="tile">
           <img alt='' src="https://i.postimg.cc/TY8PKf7q/baby-whitecap.jpg&auto=format&fit=crop&w=800&q=70" />
         </div>
-        <div className="tile">
+        <div class="tile">
           <img alt='' src="https://i.postimg.cc/SRGZhZ2X/specstop-affrontfield1.jpg&auto=format&fit=crop&w=800&q=70" />
         </div>
-        <div className="tile">
+        <div class="tile">
           <img alt='' src="https://i.postimg.cc/D0HY5xNR/smilecreative1.jpg&auto=format&fit=crop&w=800&q=70" />
         </div>
-        <div className="tile">
+        <div class="tile">
           <img alt='' src="https://i.postimg.cc/pLXPgTcC/child-with-family.jpg&auto=format&fit=crop&w=800&q=70" />
         </div>
-        <div className="tile">
+        <div class="tile">
           <img alt='' src="https://i.postimg.cc/W4Dfk6KK/pinkfrilledneckdress2.jpg&auto=format&fit=crop&w=800&q=70" />
         </div>
-        <div className="tile">
-          <img alt='' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQ2Yzg4OWY4Mzg4ZGQ2YzY5ZGU1MDQxMWJlM2U3NzZiYTA0MjU0ZiZjdD1n/xbrqrnKzqCbJv3eI7H/giphy.gif" />
+        <div class="tile">
+          <img alt='' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzIyYmZkMjRjYzk0ZDJjN2E4MDZiMzI5MTE1MTVlMzM1NDE3MTYzYiZjdD1n/4FjjPxM5kAruCjz9Lr/giphy.gif" />
         </div>
-        <div className="tile">
+        <div class="tile">
           <img alt='' src="https://i.postimg.cc/d3cXvk5f/black-striped2.jpg&auto=format&fit=crop&w=800&q=70" />
         </div>
       </div>
